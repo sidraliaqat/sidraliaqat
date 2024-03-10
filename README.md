@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sidra Liaqat
-- 👀 Interested in software development, AI, game and web development.
+- 👀 I'm interested in software development, AI, game and web development.
 -👩‍🎓 Currently studying Bachelor's in Computer Science.
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love experimenting with new recipes in the kitchen when I'm not coding! 🍳
