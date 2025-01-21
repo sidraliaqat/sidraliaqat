@@ -1,5 +1,5 @@
 👋 Hi, I'm Sidra Liaqat!
-🌟 Aspiring Software Developer | AI Enthusiast | Game, Web & AI Developer
+🌟 Aspiring Programmer | AI Enthusiast | Game, Web & AI Developer
 
 📖 About Me
 🎓 Currently studying: Bachelor's in Computer Science at Fatima Jinnah Women University
