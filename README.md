@@ -8,6 +8,6 @@
 ⚡ Fun fact: When I’m not coding, I’m experimenting with new recipes in the kitchen! 🍳
 
 🚀 Skills & Tools
-Languages: Python, C++, Java, HTML, CSS, JavaScript
-Tools: GitHub, Spyder, DevC++, Anaconda, Canva, EdrawMax
+Languages: Python, C, C++, Java, HTML, CSS
+Tools: GitHub, Spyder, DevC++, Anaconda, Canva, EdrawMax, Visual Studio, VS Code, Colab
 Interests: Machine Learning, Artificial Intelligence (AI), Web Development, Game Development
