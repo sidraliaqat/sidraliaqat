@@ -17,6 +17,8 @@
 **Tools & IDEs:** GitHub, Spyder, DevC++, Anaconda, Visual Studio, VS Code, Google Colab, Canva, EdrawMax, ModelSim
 
 **Areas of Interest:** Machine Learning, Artificial Intelligence (AI), Web Development, Game Development  
+
+
 ---
 
 ## 📫 Connect with Me
