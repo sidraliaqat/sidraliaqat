@@ -4,7 +4,7 @@
 ---
 ## 📖 About Me
 🎓 **Currently studying:** Bachelor's in Computer Science at Fatima Jinnah Women University  
-👩‍💻 **Passionate about:** Software Development, Artificial Intelligence (AI), Web Development, App develpment
+👩‍💻 **Passionate about:**  Artificial Intelligence (AI), Web Development, App develpment
 ⚡ **Fun fact:** When I’m not coding, I read novels and experiment with new recipes!  
 😄 **Pronouns:** She/Her  
 
