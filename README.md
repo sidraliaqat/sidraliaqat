@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sidra Liaqat</h1>
+<h1 align="center">Hi , I'm Sidra Liaqat</h1>
 <h3 align="center">Computer Science Student | React Developer | AI Enthusiast | Building Ideas into Reality ✨</h3>
 
 
