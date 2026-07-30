@@ -1,29 +1,108 @@
-# 👋 Hi, I'm Sidra Liaqat!  
-🌟 Aspiring Programmer | AI Enthusiast | Web and App Developer  
+<h1 align="center">Hi 👋, I'm Sidra Liaqat</h1>
+<h3 align="center">Computer Science Student | React Developer | AI Enthusiast | Building Ideas into Reality ✨</h3>
 
----
-## 📖 About Me
-🎓 **Currently studying:** Bachelor's in Computer Science at Fatima Jinnah Women University  
-👩‍💻 **Passionate about:**  Artificial Intelligence (AI), Web Development, App develpment
-⚡ **Fun fact:** When I’m not coding, I read novels and experiment with new recipes!  
-😄 **Pronouns:** She/Her  
-
----
-
-## 🚀 Skills & Tools
-
-**Programming Languages:** Python, C, C++, Java, HTML, CSS, JavaScript, Reactnative
-
-**Tools & IDEs:** GitHub, Spyder, DevC++, Anaconda, Visual Studio, VS Code, Google Colab, Canva, EdrawMax, ModelSim
-
-**Areas of Interest:** Machine Learning, Artificial Intelligence (AI), Web Development, Game Development  
-
+<p align="center">
+  <a href="https://github.com/sidraliaqat">
+    <img src="https://komarev.com/ghpvc/?username=sidraliaqat&label=Profile%20Views&color=8A2BE2&style=flat" alt="Profile Views"/>
+  </a>
+</p>
 
 ---
 
-## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/sidraliaqat)  
-- [GitHub](https://github.com/sidraliaqat)  
+## 👩‍💻 About Me
+
+🎓 Computer Science Student at **Fatima Jinnah Women University (FJWU)**
+
+💜 Passionate about creating user-friendly web applications and exploring Artificial Intelligence.
+
+🌱 Currently learning:
+- React
+- Modern JavaScript
+- Full Stack Development
+- AI & Generative AI
+- Open Source
+
+💡 I enjoy solving real-world problems through technology while creating clean, intuitive user experiences.
+
+📚 Outside of coding, you'll probably find me reading novels, designing graphics, trying new recipes, or learning something new.
 
 ---
-💡 *I love building projects in AI and web— Feel free to explore my repositories!*  
+
+## 🚀 Tech Stack
+
+### 💻 Languages
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+
+### 🌐 Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react)
+
+### 🛠 Tools
+
+Git • GitHub • VS Code • Visual Studio • Google Colab • Canva • Figma • Supabase • Postman • EdrawMax • ModelSim
+
+---
+
+## 🌟 What I'm Working On
+
+✨ Building React projects
+
+🤖 Exploring AI & Generative AI
+
+🌐 Creating responsive web applications
+
+📱 Learning modern app development
+
+🚀 Contributing to open-source projects
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sidraliaqat&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sidraliaqat&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidraliaqat&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🏆 Goals for 2026
+
+- 🌱 Become a skilled Full Stack Developer
+- 🤖 Build AI-powered applications
+- 🌍 Contribute to Open Source
+- 📚 Keep learning every day
+- 💼 Land exciting software engineering opportunities
+
+---
+
+## 🤝 Connect With Me
+
+💼 LinkedIn: https://linkedin.com/in/sidraliaqat
+
+💻 GitHub: https://github.com/sidraliaqat
+
+---
+
+<div align="center">
+
+### ✨ "Still learning. Still building. Still believing in Kun Fayakun." 🤍
+
+⭐ If you like my work, consider giving my repositories a star!
+
+</div>
