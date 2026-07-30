@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sidra Liaqat</h1>
 <h3 align="center">Computer Science Student | React Developer | AI Enthusiast | Building Ideas into Reality ✨</h3>
 
-<p align="center">
-  <a href="https://github.com/sidraliaqat">
-    <img src="https://komarev.com/ghpvc/?username=sidraliaqat&label=Profile%20Views&color=8A2BE2&style=flat" alt="Profile Views"/>
-  </a>
-</p>
 
 ---
 
