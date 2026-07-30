@@ -58,31 +58,6 @@ Git • GitHub • VS Code • Visual Studio • Google Colab • Canva • Figm
 
 🚀 Contributing to open-source projects
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sidraliaqat&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sidraliaqat&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidraliaqat&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 🏆 Goals for 2026
-
-- 🌱 Become a skilled Full Stack Developer
-- 🤖 Build AI-powered applications
-- 🌍 Contribute to Open Source
-- 📚 Keep learning every day
-- 💼 Land exciting software engineering opportunities
 
 ---
 
