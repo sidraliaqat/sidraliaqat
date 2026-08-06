@@ -71,7 +71,7 @@ Git • GitHub • VS Code • Visual Studio • Google Colab • Canva • Figm
 
 <div align="center">
 
-### ✨ "Still learning. Still building. Still believing in Kun Fayakun." 🤍
+### ✨ "Still learning. Still building. Still believing in Allah." 🤍
 
 ⭐ If you like my work, consider giving my repositories a star!
 
