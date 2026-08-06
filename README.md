@@ -71,7 +71,7 @@ Git • GitHub • VS Code • Visual Studio • Google Colab • Canva • Figm
 
 <div align="center">
 
-### ✨ "Still learning. Still building. Having the power of Allah" 🤍
+### ✨ "Still learning. Still building. Believing Allah" 🤍
 
 ⭐ If you like my work, consider giving my repositories a star!
 
