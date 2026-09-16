@@ -1,21 +1,51 @@
 <h1 align="center">Hi, I'm Sidra Liaqat 👋</h1>
 
-<p align="center">
-  <img 
-    src="https://github.com/sidraliaqat.png"
-    alt="Sidra Liaqat"
-    width="180"
-    style="image-rendering: pixelated; image-rendering: crisp-edges;"
-  />
-</p>
-
-<h3 align="center">
-  Computer Science Student | Full-Stack Developer | AI/ML Enthusiast
-</h3>
+<h3 align="center">Computer Science Student | Full-Stack Developer | AI/ML Enthusiast</h3>
 
 <p align="center">
-  Building practical applications, exploring AI, and turning ideas into working products.
+  Building ideas into practical applications with code, creativity, and a little curiosity.
 </p>
+
+<br>
+
+<div align="center">
+
+```text
+                    .-""""-.
+                  .'  .--.  '.
+                 /   /    \   \
+                ;   |  ◕  ◕ |   ;
+                |   |   ▿   |   |
+                ;    \  --  /    ;
+                 \    '----'    /
+                  '.          .'
+                    '-.____.-'
+                       /||\
+                  ____/ || \____
+                .'     ||     '.
+               /       ||       \
+              /     .--||--.     \
+             /     /   ||   \     \
+            |     /    ||    \     |
+            |    /  .-------. \    |
+            |   |  |  LAPTOP |  |   |
+            |   |  |  >_     |  |   |
+            |   |  |_________|  |   |
+            |    \_____________/    |
+             \        /  \        /
+              \______/    \______/
+                 /            \
+                /              \
+               /________________\
+                  /          \
+                 /            \
+                /              \
+               /________________\
+```
+
+</div>
+
+<br>
 
 ---
 
@@ -27,9 +57,9 @@
 
 🚀 I enjoy building practical web applications, REST APIs, authentication systems, dashboards, inventory platforms, and real-time applications.
 
-🤖 I'm also interested in **Artificial Intelligence, Machine Learning, and Generative AI**, especially their integration into real-world software.
+🤖 I'm also interested in **Artificial Intelligence, Machine Learning, and Generative AI**, especially their use in real-world software.
 
-💡 I learn best by building, experimenting, and turning ideas into functional products.
+💡 I learn by building, experimenting, and turning ideas into functional products.
 
 📚 Outside of coding, you'll probably find me reading novels, designing graphics, experimenting with recipes, or learning something new.
 
@@ -92,9 +122,9 @@ Features include real-time messaging, online presence, responsive UI, and a What
 
 ### 💊 SidStock — Pharmacy Inventory Management System
 
-A full-stack pharmacy inventory management system designed to manage products, stock, users, and inventory operations.
+A full-stack pharmacy inventory management system for managing products, stock, users, and inventory operations.
 
-**Tech:** React • Node.js • Express • PostgreSQL
+**Tech:** React • Node.js • Express.js • PostgreSQL
 
 🔗 [View Repository](https://github.com/sidraliaqat/SidStock-Pharmacy-Inventory-Management-System)
 
@@ -102,7 +132,7 @@ A full-stack pharmacy inventory management system designed to manage products, s
 
 ### 🏢 ButterflyTeam — Multi-Tenant User Management System
 
-A SaaS-oriented user management backend designed around **multi-tenant architecture**, authentication, and user management.
+A SaaS-oriented user management system focused on **multi-tenant architecture**, authentication, and user management.
 
 **Tech:** Node.js • Express.js • PostgreSQL • JavaScript
 
@@ -132,7 +162,7 @@ A sales management and business intelligence system combining backend APIs, data
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sidraliaqat&show_icons=true&hide_border=true&count_private=true" height="165"/>
@@ -156,7 +186,7 @@ A sales management and business intelligence system combining backend APIs, data
 
 <div align="center">
 
-### ✨ Still learning. Still building. Believing Allah. 🤍
+### ✨ Still learning. Still building. Believing Allah.
 
 ⭐ If you find something useful in my repositories, feel free to give it a star!
 
